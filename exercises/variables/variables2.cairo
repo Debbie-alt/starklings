@@ -1,12 +1,8 @@
-
-
-// I AM NOT DONE
-
 fn main() {
-    let x;
+    let x = 5;
     if x == 10 {
-       println!("x is ten! ");
+       print("x is ten! ");
     } else {
-        println!("x is not ten! ");
+        print("x is not ten! ");
     }
 }
